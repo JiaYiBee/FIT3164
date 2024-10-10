@@ -1,9 +1,10 @@
 <div>
   <div>
-    <img src="https://github.com/user-attachments/assets/01eb101f-1aca-4af7-b51d-a4ce6ce883dc" alt="image" style="width:400px;">
+    <img src="https://github.com/user-attachments/assets/01eb101f-1aca-4af7-b51d-a4ce6ce883dc" alt="image" style="width:450px;margin-right: 20px;">
+    <img src="https://github.com/user-attachments/assets/93815599-909a-4013-9bf4-c6e2760a2faa" alt="image" style="width:450px; height:300px;">
   </div>
 
   <div>
-This is a research project where our team of three from Monash University Malaysia are developing three machine learing algortihm which is **Neural Netowrk**,**K-Nearest Neighbours** and **Random Forest**. We have developed three algorithm which is located in three different files in the main file which are named Neural-Network-Iris , K-Nearest-Neighbour-Iris and Random-Forest-Iris. You can download the files individualy and host them on any code editor. Libraries needed are listed at the first block of each algorithm, please make sure you installed them.
+This is a research project where our team of three from Monash University Malaysia are developing three machine learing algorithm which is **Neural Network**,**K-Nearest Neighbours** and **Random Forest**. We have developed three algorithm which is located in three different files in the main file which are named Neural-Network-Iris , K-Nearest-Neighbour-Iris and Random-Forest-Iris. You can download the files individualy and host them on any code editor. Libraries needed are listed at the first block of each algorithm, please make sure you installed them.
   </div>
 </div>
